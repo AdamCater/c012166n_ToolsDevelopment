@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/FoliageGenerator.uss?fileID=7433441132597879392&amp;guid=accdf3228430a3c4a97b74e20730088e&amp;type=3#FoliageGenerator" />
+    <ui:Label text="Hello World" name="root" />
+</ui:UXML>
